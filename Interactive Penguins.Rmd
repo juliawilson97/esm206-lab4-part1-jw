@@ -25,3 +25,22 @@ penguins_graph <-
 penguins_graph
 ```
 
+
+```{r}
+ggplotly(penguins_graph)
+```
+
+```{r}
+datatable(penguins)
+```
+
+
+
+
+
+
+
+
+
+
+
